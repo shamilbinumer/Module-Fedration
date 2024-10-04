@@ -1,0 +1,2 @@
+ npm install @module-federation/nextjs-mf 
+ npm install @module-federation/nextjs-mf @module-federation/typescript webpack
